@@ -1,0 +1,7 @@
+opencv-python
+onnxruntime
+picamera2
+flask
+python-dotenv
+requests
+Werkzeug
